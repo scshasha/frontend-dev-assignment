@@ -1,2 +1,3 @@
-# frontend-dev-assignment
-Assignment for the hiring of front end developers
+# Front End Developer Assignment
+
+You can find everything you need for our front end developer assignment here.
